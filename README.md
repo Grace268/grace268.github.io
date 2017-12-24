@@ -1,2 +1,2 @@
-# Grace268.github.io
+# grace268.github.io
 GitHubPage
